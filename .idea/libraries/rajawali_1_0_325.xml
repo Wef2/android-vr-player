@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rajawali-1.0.325">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.325/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rajawali3d/rajawali/1.0.325/c6765be281fd67b754ba01292f0b8047a2252dfb/rajawali-1.0.325-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
